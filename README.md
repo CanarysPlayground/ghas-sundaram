@@ -1,2 +1,2 @@
 
-<h1 align="center">GitHub Advanced Security Bootcamp</h1>
+<h1 align="center">GitHub Advanced Security (GHAS)</h1>
